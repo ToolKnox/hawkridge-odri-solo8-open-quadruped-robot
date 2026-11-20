@@ -104,6 +104,10 @@ These parts are bought directly from the named maker and are not in the shop lis
 - Robot control interface for the Linux PC: https://github.com/open-dynamic-robot-initiative/odri_control_interface
 - Original robot, leg and actuator documentation, drawings and STEP files: `source/upstream/mechanics/` in this repository.
 
+## Bill of Material
+
+[Bill of Material (PDF)](docs/Solo-8%20Open%20Quadruped%20-%20Bill%20of%20Material.pdf): every part to buy, with shop links.
+
 ## Documentation download
 
 This repository is the documentation and source download for the build.
