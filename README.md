@@ -106,6 +106,8 @@ These parts are bought directly from the named maker and are not in the shop lis
 
 ## Bill of Material
 
+[Bill of Material (web page)](https://toolknox.github.io/hawkridge-odri-solo8-open-quadruped-robot/bill-of-material.html): open in the browser and click straight through to each part.
+
 [Bill of Material (PDF)](docs/Solo-8%20Open%20Quadruped%20-%20Bill%20of%20Material.pdf): every part to buy, with shop links.
 
 ## Documentation download
